@@ -2,7 +2,7 @@
   {
     "ID": "84b8f80da03b",
     "createdAt": "2024-01-22T11:03:30.000Z",
-    "updatedAt": "2024-02-07T13:29:36.457Z",
+    "updatedAt": "2025-01-22T11:14:33.533Z",
     "status": "publish",
     "slug": "contentrains-brand-new-look-is-almost-here",
     "title": "The Exciting Reveal: Contentrain's Brand New Look is Almost Here!",
@@ -11,6 +11,7 @@
     "imagealt": "alt image",
     "author": "eeacee5d426c",
     "category": "fdf1dd91a0b9",
+    "scheduled": false,
     "path": "content/blog"
   },
   {
